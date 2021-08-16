@@ -1,0 +1,104 @@
+2021-08-16 23:20:08 - WARNING :: CP Server Thread-6 : Failed to get image /library/metadata/14818/art, falling back to art.
+2021-08-16 23:20:45 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 131 watched.
+2021-08-16 23:21:07 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 131 stopped.
+2021-08-16 23:21:07 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14818
+2021-08-16 23:21:07 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 131 ratingKey 14818 from session queue
+2021-08-16 23:21:09 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 132 started by user 78036743 (Slenderman783) with ratingKey 14819 (Paradise - MEDUZA feat. Dermot Kennedy).
+2021-08-16 23:21:19 - WARNING :: CP Server Thread-13 : Failed to get image /library/metadata/14819/art, falling back to art.
+2021-08-16 23:22:57 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 started by user 78052850 (MISSMYSTIQUEc) with ratingKey 15149 (Clouds).
+2021-08-16 23:23:10 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 126 stopped.
+2021-08-16 23:23:10 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14868
+2021-08-16 23:23:10 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 126 ratingKey 14868 from session queue
+2021-08-16 23:23:10 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 79 stopped.
+2021-08-16 23:23:10 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 6760
+2021-08-16 23:23:10 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 79 ratingKey 6760 from session queue
+2021-08-16 23:23:37 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 132 watched.
+2021-08-16 23:23:55 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 132 stopped.
+2021-08-16 23:23:55 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14819
+2021-08-16 23:23:56 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 132 ratingKey 14819 from session queue
+2021-08-16 23:23:57 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 134 started by user 78036743 (Slenderman783) with ratingKey 14820 (Too Many Nights - 220 Kid & Jc Stewart).
+2021-08-16 23:26:46 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 134 watched.
+2021-08-16 23:27:04 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 134 stopped.
+2021-08-16 23:27:04 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14820
+2021-08-16 23:27:04 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 134 ratingKey 14820 from session queue
+2021-08-16 23:27:06 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 135 started by user 78036743 (Slenderman783) with ratingKey 14821 (Magic (single version) - Kylie Minogue).
+2021-08-16 23:28:43 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 paused.
+2021-08-16 23:28:47 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 resumed.
+2021-08-16 23:28:47 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 is buffering.
+2021-08-16 23:28:47 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 buffer count is 1.
+2021-08-16 23:28:50 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 is buffering.
+2021-08-16 23:28:50 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 buffer count is 2.
+2021-08-16 23:30:44 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 135 watched.
+2021-08-16 23:31:15 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 135 stopped.
+2021-08-16 23:31:15 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14821
+2021-08-16 23:31:15 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 135 ratingKey 14821 from session queue
+2021-08-16 23:31:17 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 136 started by user 78036743 (Slenderman783) with ratingKey 14822 (Four Notes (Paul’s Tune) - Paul Harvey & BBC Philharmonic).
+2021-08-16 23:33:35 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 136 watched.
+2021-08-16 23:33:53 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 136 stopped.
+2021-08-16 23:33:53 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14822
+2021-08-16 23:33:53 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 136 ratingKey 14822 from session queue
+2021-08-16 23:33:55 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 137 started by user 78036743 (Slenderman783) with ratingKey 14823 (Rockstar - DaBaby feat. Roddy Ricch).
+2021-08-16 23:34:23 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 is buffering.
+2021-08-16 23:34:23 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 buffer count is 3.
+2021-08-16 23:34:23 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 is buffering.
+2021-08-16 23:34:23 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 buffer count is 4.
+2021-08-16 23:34:24 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 is buffering.
+2021-08-16 23:34:24 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 buffer count is 5.
+2021-08-16 23:34:26 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 133 stopped.
+2021-08-16 23:34:26 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 15149
+2021-08-16 23:34:26 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 133 ratingKey 15149 from session queue
+2021-08-16 23:34:34 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 started by user 78052850 (MISSMYSTIQUEc) with ratingKey 15149 (Clouds).
+2021-08-16 23:34:44 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:44 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 1.
+2021-08-16 23:34:45 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:45 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 2.
+2021-08-16 23:34:47 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:47 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 3.
+2021-08-16 23:34:47 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:47 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 4.
+2021-08-16 23:34:48 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:48 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 5.
+2021-08-16 23:34:48 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:48 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 6.
+2021-08-16 23:34:49 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:49 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 7.
+2021-08-16 23:34:49 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:49 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 8.
+2021-08-16 23:34:50 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 is buffering.
+2021-08-16 23:34:50 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 138 buffer count is 9.
+2021-08-16 23:36:34 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 137 watched.
+2021-08-16 23:36:55 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 137 stopped.
+2021-08-16 23:36:55 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14823
+2021-08-16 23:36:56 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 137 ratingKey 14823 from session queue
+2021-08-16 23:36:57 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 139 started by user 78036743 (Slenderman783) with ratingKey 14824 (Lemonade - Internet Money, Gunna & Don Toliver feat. NAV).
+2021-08-16 23:39:46 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 139 watched.
+2021-08-16 23:40:11 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 139 stopped.
+2021-08-16 23:40:11 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14824
+2021-08-16 23:40:11 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 139 ratingKey 14824 from session queue
+2021-08-16 23:40:13 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 140 started by user 78036743 (Slenderman783) with ratingKey 14825 (Mood - 24kGoldn feat. iann dior).
+2021-08-16 23:42:11 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 140 watched.
+2021-08-16 23:42:32 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 140 stopped.
+2021-08-16 23:42:32 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14825
+2021-08-16 23:42:32 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 140 ratingKey 14825 from session queue
+2021-08-16 23:42:34 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 141 started by user 78036743 (Slenderman783) with ratingKey 14826 (you broke me first - Tate McRae).
+2021-08-16 23:45:02 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 141 watched.
+2021-08-16 23:45:22 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 141 stopped.
+2021-08-16 23:45:22 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14826
+2021-08-16 23:45:22 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 141 ratingKey 14826 from session queue
+2021-08-16 23:45:23 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 142 started by user 78036743 (Slenderman783) with ratingKey 14827 (my future - Billie Eilish).
+2021-08-16 23:46:59 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 142 stopped.
+2021-08-16 23:46:59 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14827
+2021-08-16 23:46:59 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 142 ratingKey 14827 from session queue
+2021-08-16 23:47:00 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 143 started by user 78036743 (Slenderman783) with ratingKey 14730 (MONTERO (Call Me By Your Name) - Lil Nas X).
+2021-08-16 23:47:01 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 143 stopped.
+2021-08-16 23:47:01 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Play duration for session 143 ratingKey 14730 is 1 secs, looks like it was skipped so we're not logging it
+2021-08-16 23:47:01 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 143 ratingKey 14730 from session queue
+2021-08-16 23:47:03 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 144 started by user 78036743 (Slenderman783) with ratingKey 14544 (7 Rings - Ariana Grande).
+2021-08-16 23:49:42 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 144 watched.
+2021-08-16 23:50:00 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 144 stopped.
+2021-08-16 23:50:00 - DEBUG   :: Thread-16 : Tautulli ActivityProcessor :: Fetching metadata for item ratingKey 14544
+2021-08-16 23:50:00 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Removing sessionKey 144 ratingKey 14544 from session queue
+2021-08-16 23:50:02 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 145 started by user 78036743 (Slenderman783) with ratingKey 14545 (Sweet but Psycho - Ava Max).
+2021-08-16 23:52:24 - DEBUG   :: CP Server Thread-7 : Tautulli PlexTV :: Plex Pass subscription not found.
+2021-08-16 23:52:25 - INFO    :: CP Server Thread-7 : Tautulli Config :: Writing configuration to file
+2021-08-16 23:52:40 - DEBUG   :: Thread-16 : Tautulli ActivityHandler :: Session 145 watched.
