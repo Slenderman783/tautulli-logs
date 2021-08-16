@@ -1,0 +1,231 @@
+2021-07-16 01:36:31 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'device_name': 'SM-G950F', 'device_id': '****************', 'onesignal_id': '****************', 'min_version': 'v2.6.6', 'cmd': 'register_device', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:36:31 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Invalid apikey.
+2021-07-16 01:36:31 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: None
+2021-07-16 01:38:40 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'device_name': 'SM-G950F', 'device_id': '****************', 'onesignal_id': '****************', 'min_version': 'v2.6.6', 'cmd': 'register_device', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:40 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {'device_name': 'SM-G950F', 'device_id': '****************', 'onesignal_id': '****************', 'min_version': 'v2.6.6'}
+2021-07-16 01:38:40 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:40 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 01:38:40 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:40 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 01:38:55 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:55 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 01:38:56 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:56 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/3087/thumb/1623814823', 'rating_key': '3087', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:56 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/8081/thumb/1625018519', 'rating_key': '8081', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:56 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/3087/thumb/1623814823', 'rating_key': '3087', 'fallback': 'poster'}
+2021-07-16 01:38:56 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster'}
+2021-07-16 01:38:56 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/8081/thumb/1625018519', 'rating_key': '8081', 'fallback': 'poster'}
+2021-07-16 01:38:58 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_user_names', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:58 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 01:38:58 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'include_activity': 'false', 'length': '25', 'cmd': 'get_history', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:58 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'include_activity': 'false', 'length': '25'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/7296/thumb/1624220548', 'rating_key': '3087', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/8321/thumb/1625020501', 'rating_key': '8081', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/5877/thumb/1624148416', 'rating_key': '5877', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/8057/thumb/1625004555', 'rating_key': '8057', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/5688/thumb/1624148339', 'rating_key': '5688', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/8057/thumb/1625004555', 'rating_key': '8057', 'fallback': 'poster'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/7296/thumb/1624220548', 'rating_key': '3087', 'fallback': 'poster'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/5877/thumb/1624148416', 'rating_key': '5877', 'fallback': 'poster'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/8321/thumb/1625020501', 'rating_key': '8081', 'fallback': 'poster'}
+2021-07-16 01:38:59 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/5688/thumb/1624148339', 'rating_key': '5688', 'fallback': 'poster'}
+2021-07-16 01:39:02 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25', 'cmd': 'get_users_table', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:02 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25'}
+2021-07-16 01:39:11 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'last_seen', 'order_dir': 'desc', 'length': '25', 'cmd': 'get_users_table', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:11 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'last_seen', 'order_dir': 'desc', 'length': '25'}
+2021-07-16 01:39:14 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25', 'cmd': 'get_users_table', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:14 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25'}
+2021-07-16 01:39:18 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:18 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-07-16 01:39:29 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'time_range': '900', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:29 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '900', 'stats_type': 'plays', 'stats_count': '6'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'y_axis': 'plays', 'cmd': 'get_plays_by_date', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'y_axis': 'plays'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'y_axis': 'plays', 'cmd': 'get_plays_by_dayofweek', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'y_axis': 'plays'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'y_axis': 'plays', 'cmd': 'get_plays_by_hourofday', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'y_axis': 'plays'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'y_axis': 'plays', 'cmd': 'get_plays_by_top_10_platforms', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'y_axis': 'plays'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'y_axis': 'plays', 'cmd': 'get_plays_by_top_10_users', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:37 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'y_axis': 'plays'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/3087/thumb/1623814823', 'rating_key': '3087', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/8081/thumb/1625018519', 'rating_key': '8081', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/3087/thumb/1623814823', 'rating_key': '3087', 'fallback': 'poster'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/8081/thumb/1625018519', 'rating_key': '8081', 'fallback': 'poster'}
+2021-07-16 01:39:40 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster'}
+2021-07-16 02:42:50 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 02:42:50 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 02:42:51 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/7486/thumb/1624293957', 'rating_key': '7486', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 02:42:51 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/7486/thumb/1624293957', 'rating_key': '7486', 'fallback': 'poster'}
+2021-07-16 02:42:55 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25', 'cmd': 'get_users_table', 'apikey': '****************', 'app': 'true'}
+2021-07-16 02:42:55 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25'}
+2021-07-16 02:42:58 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 02:42:58 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-07-16 02:43:10 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 02:43:10 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users'}
+2021-07-16 02:43:22 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_synced_items', 'apikey': '****************', 'app': 'true'}
+2021-07-16 02:43:22 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_user_names', 'apikey': '****************', 'app': 'true'}
+2021-07-16 02:43:22 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 02:43:22 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:15:36 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:15:36 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:15:36 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:15:36 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:15:37 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:15:37 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:15:37 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:15:37 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster'}
+2021-07-16 06:15:44 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:15:44 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-07-16 06:15:50 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:15:50 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users'}
+2021-07-16 06:32:33 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:33 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:33 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:32:33 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:32:33 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:33 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:32:34 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:34 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster'}
+2021-07-16 06:32:40 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:40 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:42 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'height': '300', 'img': '/library/metadata/9065/thumb/1626055982', 'rating_key': '9065', 'fallback': 'poster'}
+2021-07-16 06:32:44 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'ip_address': '192.168.1.3', 'cmd': 'get_geoip_lookup', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:44 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'ip_address': '192.168.1.3'}
+2021-07-16 06:32:47 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'rating_key': '9074', 'cmd': 'get_metadata', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:47 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {'rating_key': '9074'}
+2021-07-16 06:32:53 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'user_id': '78036743', 'include_last_seen': 'true', 'cmd': 'get_user', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:53 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'user_id': '78036743', 'cmd': 'get_user_watch_time_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:53 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'user_id': '78036743', 'include_last_seen': 'true'}
+2021-07-16 06:32:53 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {'user_id': '78036743'}
+2021-07-16 06:32:53 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'user_id': '78036743', 'cmd': 'get_user_player_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 06:32:53 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'user_id': '78036743'}
+2021-07-16 17:14:47 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-16 17:14:47 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-07-16 17:14:47 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 17:14:47 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 17:14:47 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-07-16 17:14:47 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-16 17:14:59 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-16 17:14:59 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-07-30 21:44:15 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-07-30 21:44:15 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-07-30 21:44:15 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-30 21:44:15 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-30 21:44:15 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-07-30 21:44:15 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-07-30 21:44:33 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25', 'cmd': 'get_users_table', 'apikey': '****************', 'app': 'true'}
+2021-07-30 21:44:33 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25'}
+2021-07-30 21:44:38 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-30 21:44:38 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-07-30 21:45:19 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-30 21:45:19 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users'}
+2021-07-30 21:54:15 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-07-30 21:54:15 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'device_name': 'SM-G950F', 'device_id': '****************', 'onesignal_id': '****************', 'min_version': 'v2.6.6', 'platform': 'android', 'version': '2.11.2', 'cmd': 'register_device', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'device_name': 'SM-G950F', 'device_id': '****************', 'onesignal_id': '****************', 'min_version': 'v2.6.6', 'platform': 'android', 'version': '2.11.2'}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'height': '450', 'img': '/library/metadata/10582/thumb/1627832992', 'rating_key': '10582', 'width': '300', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:06 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'height': '450', 'img': '/library/metadata/10582/thumb/1627832992', 'rating_key': '10582', 'width': '300', 'fallback': 'poster'}
+2021-08-01 19:29:20 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25', 'cmd': 'get_users_table', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:20 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'friendly_name', 'order_dir': 'asc', 'length': '25'}
+2021-08-01 19:29:31 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:31 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:29:33 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:33 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:29:34 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:34 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:29:35 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:35 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:29:36 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:36 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:29:37 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:37 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:29:41 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:29:41 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'section_name', 'order_dir': 'asc', 'cmd': 'get_libraries_table', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'section_name', 'order_dir': 'asc'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'height': '280', 'img': '/:/resources/show-fanart.jpg', 'width': '500', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'height': '280', 'img': '/:/resources/artist-fanart.jpg', 'width': '500', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'height': '280', 'img': '/:/resources/movie-fanart.jpg', 'width': '500', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'height': '280', 'img': '/:/resources/artist-fanart.jpg', 'width': '500'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {'height': '280', 'img': '/:/resources/movie-fanart.jpg', 'width': '500'}
+2021-08-01 19:30:13 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {'height': '280', 'img': '/:/resources/show-fanart.jpg', 'width': '500'}
+2021-08-01 19:30:16 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'order_column': 'section_name', 'order_dir': 'asc', 'cmd': 'get_libraries_table', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:30:16 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'order_column': 'section_name', 'order_dir': 'asc'}
+2021-08-01 19:30:18 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-01 19:30:18 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-06 21:00:09 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:09 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:09 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-06 21:00:09 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-06 21:00:09 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:09 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-06 21:00:14 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:14 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-06 21:00:16 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:16 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-06 21:00:17 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:17 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-06 21:00:21 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:21 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-06 21:00:23 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 21:00:23 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'height': '450', 'img': '/library/metadata/11199/thumb/1627836414', 'rating_key': '11199', 'width': '300', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:08:52 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {'height': '450', 'img': '/library/metadata/11199/thumb/1627836414', 'rating_key': '11199', 'width': '300', 'fallback': 'poster'}
+2021-08-06 22:08:55 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:08:55 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-06 22:09:01 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:09:01 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '30', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users'}
+2021-08-06 22:09:07 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:09:07 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_count': '6'}
+2021-08-06 22:09:08 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: API called with kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users', 'cmd': 'get_home_stats', 'apikey': '****************', 'app': 'true'}
+2021-08-06 22:09:08 - DEBUG   :: CP Server Thread-14 : Tautulli APIv2 :: Cleaned kwargs: {'time_range': '90', 'stats_type': 'plays', 'stats_start': '6', 'stats_count': '25', 'stat_id': 'top_users'}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'device_name': 'SM-G950F', 'device_id': '****************', 'onesignal_id': '****************', 'min_version': 'v2.6.6', 'platform': 'android', 'version': '2.12.0', 'cmd': 'register_device', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {'device_name': 'SM-G950F', 'device_id': '****************', 'onesignal_id': '****************', 'min_version': 'v2.6.6', 'platform': 'android', 'version': '2.12.0'}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_server_info', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-13 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-8 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_settings', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:02:54 - DEBUG   :: CP Server Thread-9 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-13 22:02:55 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: API called with kwargs: {'height': '450', 'img': '/library/metadata/13457/thumb/1628611858', 'rating_key': '13457', 'width': '300', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:02:55 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: API called with kwargs: {'height': '450', 'img': '/library/metadata/10857/thumb/1627836369', 'rating_key': '10857', 'width': '300', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:02:55 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'height': '450', 'img': '/library/metadata/13633/thumb/1628720721', 'rating_key': '13633', 'width': '300', 'fallback': 'poster', 'cmd': 'pms_image_proxy', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:02:55 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {'height': '450', 'img': '/library/metadata/13633/thumb/1628720721', 'rating_key': '13633', 'width': '300', 'fallback': 'poster'}
+2021-08-13 22:02:55 - DEBUG   :: CP Server Thread-5 : Tautulli APIv2 :: Cleaned kwargs: {'height': '450', 'img': '/library/metadata/10857/thumb/1627836369', 'rating_key': '10857', 'width': '300', 'fallback': 'poster'}
+2021-08-13 22:02:55 - DEBUG   :: CP Server Thread-12 : Tautulli APIv2 :: Cleaned kwargs: {'height': '450', 'img': '/library/metadata/13457/thumb/1628611858', 'rating_key': '13457', 'width': '300', 'fallback': 'poster'}
+2021-08-13 22:03:06 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: API called with kwargs: {'ip_address': '***.***.***.***', 'cmd': 'get_geoip_lookup', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:03:06 - DEBUG   :: CP Server Thread-11 : Tautulli APIv2 :: Cleaned kwargs: {'ip_address': '***.***.***.***'}
+2021-08-13 22:03:32 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:03:32 - DEBUG   :: CP Server Thread-10 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-13 22:03:54 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:03:54 - DEBUG   :: CP Server Thread-7 : Tautulli APIv2 :: Cleaned kwargs: {}
+2021-08-13 22:06:38 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: API called with kwargs: {'cmd': 'get_activity', 'apikey': '****************', 'app': 'true'}
+2021-08-13 22:06:38 - DEBUG   :: CP Server Thread-6 : Tautulli APIv2 :: Cleaned kwargs: {}
